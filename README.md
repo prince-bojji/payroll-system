@@ -11,4 +11,3 @@ This project is a Payroll Management System developed during my second year in I
 - Java: The core programming language used for the application logic.
 - JavaFX: Used for building the user interface.
 - MySQL: Database management system for storing payroll data.
-- Maven: Build automation tool used for project management and dependency management.
