@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug (Launch)-Main<jehan.Main>",
+      "request": "launch",
+      "mainClass": "jehan.Main",
+      "projectName": "payroll-system",
+      "vmArgs": "--module-path ${env:PATH_TO_FX} --add-modules javafx.controls,javafx.fxml"
+    }
+  ]
+}
